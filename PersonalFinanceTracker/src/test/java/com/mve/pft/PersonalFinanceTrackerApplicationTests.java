@@ -1,4 +1,4 @@
-package com.example.PersonalFinanceTracker;
+package com.mve.pft;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

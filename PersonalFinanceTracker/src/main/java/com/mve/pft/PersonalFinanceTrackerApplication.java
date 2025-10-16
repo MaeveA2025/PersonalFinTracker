@@ -1,4 +1,4 @@
-package com.example.PersonalFinanceTracker;
+package com.mve.pft;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
