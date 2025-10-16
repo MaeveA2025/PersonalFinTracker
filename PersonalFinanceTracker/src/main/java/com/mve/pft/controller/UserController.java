@@ -12,7 +12,6 @@ import lombok.RequiredArgsConstructor;
 
 @RestController
 @RequestMapping("/auth")
-@RequiredArgsConstructor
 public class UserController {
     
     private UserInfoService userService;
@@ -25,4 +24,6 @@ public class UserController {
     public String welcome() {
         return null;
     }
+
+   
 }
