@@ -1,5 +1,5 @@
 package com.mve.pft.repository;
 
-public interface UserInfoRepo {
+public interface UserRepository {
     
 }
